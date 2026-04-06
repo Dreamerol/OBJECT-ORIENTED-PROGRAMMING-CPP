@@ -32,13 +32,11 @@
 
 ## 💻 Tech Skills & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Object-Oriented-Design-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Classes-&-Objects-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/File-Handling-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Encapsulation-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Abstraction-yellow?style=for-the-badge" />
+<p align="center"><p align="center">
+  <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Paradigm-OOP-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Introductory-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semester-Summer%202024/25-purple?style=for-the-badge" />
 
 </p>
 
