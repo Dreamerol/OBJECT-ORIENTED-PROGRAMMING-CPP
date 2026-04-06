@@ -17,30 +17,6 @@
   <img src="https://img.shields.io/badge/Semester-Summer%202024/25-purple?style=for-the-badge" />
 </p>
 
----
-
-## 📝 Topics Overview
-
-### 1️⃣ [Introduction to Object-Oriented Programming](https://www.learncpp.com/cpp-tutorial/introduction-to-oop/)  
-💡 Hands-on exercises introducing **classes, objects**, and **basic OOP principles**.  
-
-### 2️⃣ [File Handling in C++](https://www.learncpp.com/cpp-tutorial/file-io-in-cpp/)  
-📂 Practical tasks for **reading, writing, and managing files programmatically**.  
-
-### 3️⃣ [Classes and Objects](https://www.geeksforgeeks.org/classes-and-objects-in-cpp/)  
-🧱 Key concepts:  
-- Member variables & functions  
-- Constructors & destructors  
-- **Encapsulation** & **Abstraction**  
-
----
-
-### 🔗 Useful Links
-- [Official C++ Reference](https://en.cppreference.com/w/)  
-- [Learn OOP Concepts](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-cpp/)  
-- [Practical Exercises](https://www.learncpp.com/cpp-tutorial/)  
-
----
 
 ## 💻 Tech Skills & Tools
 
