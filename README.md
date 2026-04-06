@@ -67,4 +67,19 @@ By completing these topics, you will:
 - **Тема 01 [[Семинар](./Seminar/Week%2001/)][[Практикум](./Practicum//Week01/)]** - Увод в обектно-ориентираното програмиране.
 - **Тема 02 [[Семинар](./Seminar/Week%2002/)][[Практикум](./Practicum//Week02/)]** - Работа с файлове.
 - **Тема 03 [[Семинар](./Seminar/Week%2003/)][[Практикум](./Practicum//Week03/)]** - Класове и обекти. Членове. Конструктор и деструктор. Капсулация и абстракция.
+
+---
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT-Portfolio_Ready-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-SQL_Logistics_System-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DATA-Relational_Model-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DESIGN-Normalized_DB-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LEVEL-Junior_Developer-informational?style=for-the-badge" />
+
+</div>
+
   
