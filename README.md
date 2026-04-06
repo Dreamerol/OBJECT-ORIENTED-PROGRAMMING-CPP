@@ -1,4 +1,4 @@
-OBJECT-ORIENTED-PROGRAMMING-CPP
+<h2 align="center">OBJECT-ORIENTED PROGRAMMING C++</h2>
 
 
 ##### СИ, 1 курс, 6 група, летен семестър, 2024/2025
