@@ -68,6 +68,14 @@ By completing these topics, you will:
 - **Тема 02 [[Семинар](./Seminar/Week%2002/)][[Практикум](./Practicum//Week02/)]** - Работа с файлове.
 - **Тема 03 [[Семинар](./Seminar/Week%2003/)][[Практикум](./Practicum//Week03/)]** - Класове и обекти. Членове. Конструктор и деструктор. Капсулация и абстракция.
 
+---
+
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
+
+
 
 ---
 
