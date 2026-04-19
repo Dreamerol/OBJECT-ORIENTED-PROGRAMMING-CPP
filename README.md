@@ -38,6 +38,7 @@
 
 ---
 
+<div align="center">
 
 <br><br>
 
@@ -45,12 +46,27 @@
 <img src="https://img.shields.io/badge/File%20Handling-C%2B%2B%20Streams-2E8B57?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Classes%20%26%20Objects-Core%20Concepts-8A2BE2?style=for-the-badge" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Encapsulation%20%26%20Abstraction-Architecture-FF4B4B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Constructors%20%26%20Destructors-Lifecycle-00599C?style=for-the-badge" />
 
 </div>
+
+---
+
+## 🌟 TOPICS
+
+- **1️⃣ TOPIC 01 [[SEMINAR](./Seminar/Week%2001/)][[PRACTICUM](./Practicum/Week01/)]** – 💡 **INTRODUCTION TO OBJECT-ORIENTED PROGRAMMING**  
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge" />
+
+- **2️⃣ TOPIC 02 [[SEMINAR](./Seminar/Week%2002/)][[PRACTICUM](./Practicum/Week02/)]** – 📂 **FILE HANDLING IN C++**  
+  <img src="https://img.shields.io/badge/FILES-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/I/O-green?style=for-the-badge" />
+
+- **3️⃣ TOPIC 03 [[SEMINAR](./Seminar/Week%2003/)][[PRACTICUM](./Practicum/Week03/)]** – 🧱 **CLASSES AND OBJECTS. MEMBERS. CONSTRUCTOR AND DESTRUCTOR. ENCAPSULATION AND ABSTRACTION**  
+  <img src="https://img.shields.io/badge/CLASSES-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/ENCAPSULATION-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/ABSTRACTION-lightgrey?style=for-the-badge" />
+
+
 
 
 ---
