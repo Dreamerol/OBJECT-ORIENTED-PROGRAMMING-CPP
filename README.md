@@ -2,7 +2,11 @@
 
 
 <p align="center">
-  <img src="https://github.com/Dreamerol/Dreamerol/blob/147bc7cfbd4cc69f66145360ed196183cec12fab/ZZZZZZZZZZZZZZZZZZZZZZZZZOOP.png" alt="CPP" />
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/147bc7cfbd4cc69f66145360ed196183cec12fab/ZZZZZZZZZZZZZZZZZZZZZZZZZOOP.png" 
+    alt="CPP" 
+    style="width:100%; height:auto;" 
+  />
 </p>
 
 ---
