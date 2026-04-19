@@ -38,21 +38,20 @@
 
 ---
 
-### 🌟 Core Topics Covered
+<div align="center">
 
-<p align="center">
+<img src="https://img.shields.io/badge/Software%20Engineering-Year%201%20(Summer%202024%2F25)-1F6FEB?style=for-the-badge" />
 
-  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-FF6F00?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/File%20Handling-C%2B%2B%20Streams-2E8B57?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/Classes%20%26%20Objects-Core%20Concepts-8A2BE2?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/Encapsulation%20%26%20Abstraction-Architecture-FF4B4B?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/Constructors%20%26%20Destructors-Lifecycle-00599C?style=for-the-badge" />
+<br><br>
 
-</p>
+<img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/File%20Handling-C%2B%2B%20Streams-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Classes%20%26%20Objects-Core%20Concepts-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Encapsulation%20%26%20Abstraction-Architecture-FF4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Constructors%20%26%20Destructors-Lifecycle-00599C?style=for-the-badge" />
+
+</div>
+
 
 ---
 
@@ -110,25 +109,6 @@
 - **3️⃣ TOPIC 03 [[SEMINAR](./Seminar/Week%2003/)][[PRACTICUM](./Practicum/Week03/)]** – 🧱 **CLASSES AND OBJECTS. MEMBERS. CONSTRUCTOR AND DESTRUCTOR. ENCAPSULATION AND ABSTRACTION**  
   <img src="https://img.shields.io/badge/CLASSES-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/ENCAPSULATION-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/ABSTRACTION-lightgrey?style=for-the-badge" />
 
-  ---
-
-## 💻 Tech Skills & Tools
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/C%2B%2B-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Object--Oriented%20Design-Architecture-FF6F00?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Core%20CS-1F6FEB?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/Memory%20Management-RAII%20%26%20Pointers-8A2BE2?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/STL-Containers%20%26%20Algorithms-2E8B57?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/System%20Thinking-Problem%20Solving-FF4B4B?style=for-the-badge" />
-
-</p>
 
 ---
 
