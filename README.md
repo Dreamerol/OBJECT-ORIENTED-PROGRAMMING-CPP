@@ -12,12 +12,20 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Paradigm-OOP-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Level-Introductory-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semester-Summer%202024/25-purple?style=for-the-badge" />
-</p>
 
+  <img src="https://img.shields.io/badge/C%2B%2B-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Object--Oriented%20Design-Architecture-FF6F00?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Core%20CS-1F6FEB?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/Memory%20Management-RAII%20%26%20Pointers-8A2BE2?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/STL-Containers%20%26%20Algorithms-2E8B57?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/System%20Thinking-Problem%20Solving-FF4B4B?style=for-the-badge" />
+
+</p>
 
 ---
 
