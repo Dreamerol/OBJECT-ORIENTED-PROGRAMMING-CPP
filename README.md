@@ -1,7 +1,7 @@
 <h2 align="center">💻 OBJECT-ORIENTED PROGRAMMING C++ – COURSE TOPICS</h2>
 
 
-![CPP](https://github.com/Dreamerol/Dreamerol/blob/9b9c59f5b92a0ede47091ece2209379932bd64f9/education33.jpg)
+![CPP](https://github.com/Dreamerol/Dreamerol/blob/147bc7cfbd4cc69f66145360ed196183cec12fab/ZZZZZZZZZZZZZZZZZZZZZZZZZOOP.png)
 
 ---
 
