@@ -37,6 +37,8 @@
 
 ---
 
+##### SOFTWARE ENGINEERING, YEAR 1, SUMMER SEMESTER, 2024/2025
+
 ## 🌟 TOPICS
 
 - **1️⃣ TOPIC 01 [[SEMINAR](./Seminar/Week%2001/)][[PRACTICUM](./Practicum/Week01/)]** – 💡 **INTRODUCTION TO OBJECT-ORIENTED PROGRAMMING**  
@@ -90,33 +92,6 @@
 
 
 
-
-
----
-
-##### SOFTWARE ENGINEERING, YEAR 1, SUMMER SEMESTER, 2024/2025
-
-## 🌟 TOPICS
-
-- **1️⃣ TOPIC 01 [[SEMINAR](./Seminar/Week%2001/)][[PRACTICUM](./Practicum/Week01/)]** – 💡 **INTRODUCTION TO OBJECT-ORIENTED PROGRAMMING**  
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge" />
-
-- **2️⃣ TOPIC 02 [[SEMINAR](./Seminar/Week%2002/)][[PRACTICUM](./Practicum/Week02/)]** – 📂 **FILE HANDLING IN C++**  
-  <img src="https://img.shields.io/badge/FILES-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/I/O-green?style=for-the-badge" />
-
-- **3️⃣ TOPIC 03 [[SEMINAR](./Seminar/Week%2003/)][[PRACTICUM](./Practicum/Week03/)]** – 🧱 **CLASSES AND OBJECTS. MEMBERS. CONSTRUCTOR AND DESTRUCTOR. ENCAPSULATION AND ABSTRACTION**  
-  <img src="https://img.shields.io/badge/CLASSES-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/ENCAPSULATION-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/ABSTRACTION-lightgrey?style=for-the-badge" />
-
-
----
-
-### 🎯 Learning Outcomes
-
-By completing these topics, you will:  
-
-- 🧠 Understand core **OOP principles**  
-- ⚡ Apply concepts in **practical coding exercises**  
-- 💼 Prepare a **portfolio-ready C++ OOP project**
 
 ---
 
