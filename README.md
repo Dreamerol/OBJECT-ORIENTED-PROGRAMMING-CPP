@@ -1,4 +1,4 @@
-<h1 align="center">🌍 OBJECT-ORIENTED PROGRAMMING C++ – COURSE TOPICS</h1>
+<h1 align="center"><em>🌍 Object-Oriented Programming in C++ – Practical Implementation</em></h1>
 
 
 <p align="center">
