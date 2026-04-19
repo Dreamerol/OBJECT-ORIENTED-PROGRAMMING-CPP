@@ -29,6 +29,74 @@
 
 ---
 
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Software%20Engineering-Year%201%20(Summer%202024%2F25)-1F6FEB?style=for-the-badge" />
+
+</p>
+
+---
+
+### 🌟 Core Topics Covered
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-FF6F00?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/File%20Handling-C%2B%2B%20Streams-2E8B57?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/Classes%20%26%20Objects-Core%20Concepts-8A2BE2?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/Encapsulation%20%26%20Abstraction-Architecture-FF4B4B?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/Constructors%20%26%20Destructors-Lifecycle-00599C?style=for-the-badge" />
+
+</p>
+
+---
+
+### 🧱 Topics Breakdown
+
+- 📌 **Introduction to Object-Oriented Programming**
+- 📂 **File Handling in C++ (streams, read/write operations)**
+- 🧱 **Classes and Objects**
+- ⚙️ **Constructors & Destructors**
+- 🔒 **Encapsulation & Abstraction principles**
+
+---
+
+### 💻 Tech Skills & Tools Applied
+
+- C++ fundamentals
+- Object-Oriented Design thinking
+- File I/O operations
+- Modular code structure
+- Basic software architecture principles
+
+---
+
+### 🎯 Learning Outcomes
+
+✔ Strong understanding of OOP fundamentals  
+✔ Ability to design and structure small-scale C++ systems  
+✔ Practical experience with file-based data handling  
+✔ Readiness for portfolio-level C++ OOP projects  
+
+---
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ##### SOFTWARE ENGINEERING, YEAR 1, SUMMER SEMESTER, 2024/2025
 
 ## 🌟 TOPICS
